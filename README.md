@@ -1,7 +1,7 @@
 # MIL-MMP-algorithm
 An Algorithm for Mixed Integer Linear Maximum Multiplicative Programs 
 
-This is an algorithm to solve a class of bi-objective Mixed Integer Linear Maximum Multiplicative Programs of format:
+This is an algorithm to solve a class of Mixed Integer Linear Maximum Multiplicative Programs of format:
 
 ![Images](Images/problem.jpg)
 
