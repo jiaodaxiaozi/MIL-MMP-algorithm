@@ -1,5 +1,5 @@
-# MOL-MMP-algorithm
-An Algorithm for Multi-objective Mixed Integer Linear Maximum Multiplicative Programs
+# MIL-MMP-algorithm
+An Algorithm for Mixed Integer Linear Maximum Multiplicative Programs 
 
 This is an algorithm to solve a class of bi-objective Mixed Integer Linear Maximum Multiplicative Programs of format:
 
