@@ -12,7 +12,7 @@ This project is a Netbeans IDE 8.2 C++ project which was written in Linux (Ubunt
 To compile the code, CPLEX (default version 12.7) must be installed on your computer. The default directory for CPLEX used is /opt/CPLEX/12.7/. Changing the directory of CPLEX to your preferred directory can be done either in the Makefile or through Netbeans. If you would like to do it in the Makefile you should go to nbproject/Makefile-Debug.mk and nbproject/Makefile-Release.mk and change all instances of /opt/CPLEX/12.7/ to your preferred directory. If you would like to do it through Netbeans, you can open the project in Netbeans and right click on the name of the project and choose Properties. You can then change the directory in the Include Directories box which is located in the C++ Compiler sub-menu. Moreover, you should also change the directory in the Libraries box which is located in the Linker sub-menu.
 
 # Data Files
-The instances used in the computational experiments of this algorithm are available in https://goo.gl/bgHciY.
+The instances used in the computational experiments of this algorithm are available in https://goo.gl/otpJwX.
 
 For further instances, each data file should be written as a CPLEX LP file as follows,
 
