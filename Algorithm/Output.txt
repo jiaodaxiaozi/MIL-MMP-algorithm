@@ -1,0 +1,1 @@
+1.lp GLB= 868.0798392 GUB= 868.0798392 Gap= 0 #VAR= 100 #Const= 200 Time= 0.491967 Open= 0 Explored= 6 Inf= 0 Pruned= 4 Initial optimality= 1
