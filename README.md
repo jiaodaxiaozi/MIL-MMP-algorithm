@@ -38,7 +38,9 @@ where instance* is the original .lp file of the instance, instance** is the rela
 For better understanging, we have provided a folder named instance in the algorithm folder. In instance folder, 1.lp is the problems original file, and 2.lp is the relaxed form of the problem. In order to solve this instance, one can use the code
 
 make clean
+
 make
+
 ./Algorithm instance/1.lp instance/2.lp 2
 
 # Supporting and Citing
